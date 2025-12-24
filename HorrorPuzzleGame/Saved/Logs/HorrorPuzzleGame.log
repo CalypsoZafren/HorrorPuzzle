@@ -1918,3 +1918,115 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.24-02.04.24:635][219]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=11
 [2025.12.24-02.04.24:639][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2025.12.24-02.04.24:702][220]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.12.24-02.06.16:082][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.24-02.06.17:354][446]LogSlate: Window 'Save Content' being destroyed
+[2025.12.24-02.06.17:374][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.24-02.06.17:469][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.12.24-02.06.17:503][446]LogSavePackage: Moving output files for package: /Game/Levels/NewWorld
+[2025.12.24-02.06.17:504][446]LogSavePackage: Moving '../../../../../../Users/calli/OneDrive/Desktop/Game Dev Stuff/HorrorPuzzle/HorrorPuzzleGame/Saved/NewWorld43DF64964E4208CC1786D2901077EF9D.tmp' to '../../../../../../Users/calli/OneDrive/Desktop/Game Dev Stuff/HorrorPuzzle/HorrorPuzzleGame/Content/Levels/NewWorld.umap'
+[2025.12.24-02.06.17:514][446]LogFileHelpers: Saving map 'NewWorld' took 0.082
+[2025.12.24-02.06.17:523][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.041 ms
+[2025.12.24-02.06.17:567][446]LogStall: Shutdown...
+[2025.12.24-02.06.17:567][446]LogStall: Shutdown complete.
+[2025.12.24-02.06.17:609][446]LogSlate: Window 'HorrorPuzzleGame - Unreal Editor' being destroyed
+[2025.12.24-02.06.17:676][446]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.24-02.06.17:676][446]LogContentValidation: Enabled validators:
+[2025.12.24-02.06.17:676][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.24-02.06.17:676][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.24-02.06.17:676][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.24-02.06.17:676][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.24-02.06.17:676][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.24-02.06.17:676][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.24-02.06.17:677][446]AssetCheck: /Game/Levels/NewWorld Validating asset
+[2025.12.24-02.06.17:679][446]Cmd: QUIT_EDITOR
+[2025.12.24-02.06.17:679][446]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.24-02.06.17:685][447]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.24-02.06.17:685][447]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.24-02.06.17:685][447]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.24-02.06.17:688][447]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2025.12.24-02.06.17:688][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.24-02.06.17:702][447]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.24-02.06.17:702][447]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.24-02.06.17:706][447]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.24-02.06.17:713][447]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.24-02.06.17:713][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.24-02.06.17:713][447]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.24-02.06.17:713][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.24-02.06.17:715][447]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.12.24-02.06.17:715][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.18:228][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.18:740][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.19:254][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.19:755][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.20:256][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.20:756][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.21:256][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.21:756][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.22:257][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.22:757][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.23:257][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.23:757][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.24:257][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.24:758][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.25:258][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.25:758][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.26:258][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.26:759][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.27:259][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.27:759][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.28:259][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.28:759][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.29:259][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.29:759][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.30:259][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.30:759][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.31:260][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.31:760][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.32:260][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.32:760][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.33:260][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.33:760][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.34:260][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.34:760][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.34:961][447]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.12.24-02.06.35:260][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.35:762][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.36:262][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.36:762][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.37:262][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.37:762][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.38:262][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.38:762][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.39:262][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.39:763][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.40:264][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.40:764][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.41:264][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.41:764][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.42:264][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.42:764][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.43:264][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.43:764][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.44:265][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.44:765][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.45:265][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.45:765][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.46:265][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.46:765][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.47:266][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.47:766][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.48:266][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.48:767][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.49:267][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.49:768][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.50:268][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.50:768][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.51:269][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.51:770][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.52:270][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.52:770][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.53:270][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.53:770][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.54:270][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.54:771][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2025.12.24-02.06.55:271][447]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
