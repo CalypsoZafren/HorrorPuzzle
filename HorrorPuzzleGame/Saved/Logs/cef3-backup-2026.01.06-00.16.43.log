@@ -1,0 +1,6 @@
+[0106/001450.569:WARNING:backend_impl.cc(1641)] Messed up entry found.
+[0106/001450.569:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[0106/001450.577:WARNING:backend_impl.cc(1641)] Messed up entry found.
+[0106/001450.577:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
+[0106/001450.578:WARNING:backend_impl.cc(1616)] Messed up entry found.
+[0106/001643.235:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

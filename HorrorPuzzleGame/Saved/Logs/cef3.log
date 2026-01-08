@@ -1,6 +1,16 @@
-[0106/001450.569:WARNING:backend_impl.cc(1641)] Messed up entry found.
-[0106/001450.569:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
-[0106/001450.577:WARNING:backend_impl.cc(1641)] Messed up entry found.
-[0106/001450.577:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
-[0106/001450.578:WARNING:backend_impl.cc(1616)] Messed up entry found.
-[0106/001643.235:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0108/203731.645:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0108/203731.782:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0108/203732.655:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0108/203732.666:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0108/203800.358:WARNING:backend_impl.cc(1616)] Messed up entry found.
+[0108/203838.635:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
