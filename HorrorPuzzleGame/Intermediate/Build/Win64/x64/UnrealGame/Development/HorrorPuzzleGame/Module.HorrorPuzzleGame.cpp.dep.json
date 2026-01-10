@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\calli\\onedrive\\desktop\\game dev stuff\\horrorpuzzle\\horrorpuzzlegame\\intermediate\\build\\win64\\x64\\unrealgame\\development\\horrorpuzzlegame\\module.horrorpuzzlegame.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\calli\\onedrive\\desktop\\game dev stuff\\horrorpuzzle\\horrorpuzzlegame\\intermediate\\build\\win64\\x64\\horrorpuzzlegame\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\calli\\onedrive\\desktop\\game dev stuff\\horrorpuzzle\\horrorpuzzlegame\\intermediate\\build\\win64\\x64\\unrealgame\\development\\horrorpuzzlegame\\definitions.horrorpuzzlegame.h",
+            "c:\\users\\calli\\onedrive\\desktop\\game dev stuff\\horrorpuzzle\\horrorpuzzlegame\\intermediate\\source\\horrorpuzzlegame.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

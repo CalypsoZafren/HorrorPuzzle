@@ -1,0 +1,13 @@
+{
+	"zenserver": {
+		"islocalhost": true,
+		"hostname": "[::1]",
+		"remotehostnames": [
+			"192.168.1.227",
+			"hostname://CalypsoPC.home"
+		],
+		"hostport": 8558,
+		"projectid": "HorrorPuzzleGame.fb0f1202",
+		"oplogid": "Windows"
+	}
+}

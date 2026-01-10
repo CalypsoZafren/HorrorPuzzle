@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\calli\\OneDrive\\Desktop\\Game Dev Stuff\\HorrorPuzzle\\HorrorPuzzleGame\\Intermediate\\Source\\HorrorPuzzleGame.Build.cs",
+		"C:\\Users\\calli\\OneDrive\\Desktop\\Game Dev Stuff\\HorrorPuzzle\\HorrorPuzzleGame\\Intermediate\\Source\\HorrorPuzzleGame.Target.cs",
+		"C:\\Users\\calli\\OneDrive\\Desktop\\Game Dev Stuff\\HorrorPuzzle\\HorrorPuzzleGame\\Intermediate\\Source\\HorrorPuzzleGameClient.Target.cs",
+		"C:\\Users\\calli\\OneDrive\\Desktop\\Game Dev Stuff\\HorrorPuzzle\\HorrorPuzzleGame\\Intermediate\\Source\\HorrorPuzzleGameEditor.Target.cs",
+		"C:\\Users\\calli\\OneDrive\\Desktop\\Game Dev Stuff\\HorrorPuzzle\\HorrorPuzzleGame\\Intermediate\\Source\\HorrorPuzzleGameServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
