@@ -8,8 +8,6 @@ ConfigSystem.Android.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumS
 ConfigSystem.Android.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
 ConfigSystem.Android.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
 ConfigSystem.Android.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
-ConfigSystem.Android.Input:InputPlatformSettings_Android InputPlatformSettings:input.DeviceMappingPolicy:0=1
-ConfigSystem.Android.Input:InputPlatformSettings_Android InputPlatformSettings:MaxPlatformUserCount:0=4
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DistanceFields:0=0
 ConfigSystem.IOS.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
 ConfigSystem.IOS.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("FoliageLOD","Foliage"))
@@ -18,8 +16,6 @@ ConfigSystem.IOS.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStrea
 ConfigSystem.IOS.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
 ConfigSystem.IOS.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
 ConfigSystem.IOS.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
-ConfigSystem.IOS.Input:InputPlatformSettings_IOS InputPlatformSettings:input.DeviceMappingPolicy:0=0
-ConfigSystem.IOS.Input:InputPlatformSettings_IOS InputPlatformSettings:MaxPlatformUserCount:0=4
 ConfigSystem.Linux.Engine:StaticMeshLODSettings:Deco:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("DecoLOD","Deco"))
 ConfigSystem.Linux.Engine:StaticMeshLODSettings:Foliage:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("FoliageLOD","Foliage"))
 ConfigSystem.Linux.Engine:StaticMeshLODSettings:HighDetail:0=(NumLODs=6,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=6,Name=LOCTEXT("HighDetailLOD","High Detail"))
@@ -34,8 +30,6 @@ ConfigSystem.Mac.Engine:StaticMeshLODSettings:LargeProp:0=(NumLODs=4,MaxNumStrea
 ConfigSystem.Mac.Engine:StaticMeshLODSettings:LevelArchitecture:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LightMapResolution=32,LODPercentTriangles=50,PixelError=12,SilhouetteImportance=4,Name=LOCTEXT("LevelArchitectureLOD","Level Architecture"))
 ConfigSystem.Mac.Engine:StaticMeshLODSettings:SmallProp:0=(NumLODs=4,MaxNumStreamedLODs=0,bSupportLODStreaming=0,LODPercentTriangles=50,PixelError=10,Name=LOCTEXT("SmallPropLOD","Small Prop"))
 ConfigSystem.Mac.Engine:StaticMeshLODSettings:Vista:0=(NumLODs=1,MaxNumStreamedLODs=0,bSupportLODStreaming=0,Name=LOCTEXT("VistaLOD","Vista"))
-ConfigSystem.Mac.Input:InputPlatformSettings_Mac InputPlatformSettings:input.DeviceMappingPolicy:0=1
-ConfigSystem.Mac.Input:InputPlatformSettings_Mac InputPlatformSettings:MaxPlatformUserCount:0=8
 ConfigSystem.<Editor>.C::::/Users/calli/OneDrive/Desktop/Game Dev Stuff/HorrorPuzzle/HorrorPuzzleGame/Saved/Config/WindowsEditor/ChaosVD.ini:/Script/ChaosVD.ChaosVDParticleVisualizationColorSettings:ColorsByClientServer:0=(ServerBaseColor=(B=80,G=92,R=231,A=255),ClientBaseColor=(B=178,G=114,R=0,A=255))
 ConfigSystem.<Editor>.C::::/Users/calli/OneDrive/Desktop/Game Dev Stuff/HorrorPuzzle/HorrorPuzzleGame/Saved/Config/WindowsEditor/ChaosVD.ini:/Script/ChaosVD.ChaosVDParticleVisualizationColorSettings:ColorsByParticleState:0=(DynamicColor=(B=98,G=246,R=253,A=255),SleepingColor=(B=80,G=92,R=231,A=255),KinematicColor=(B=178,G=114,R=0,A=255),StaticColor=(B=156,G=159,R=150,A=255))
 ConfigSystem.<Editor>.C::::/Users/calli/OneDrive/Desktop/Game Dev Stuff/HorrorPuzzle/HorrorPuzzleGame/Saved/Config/WindowsEditor/ChaosVD.ini:/Script/ChaosVD.ChaosVDParticleVisualizationColorSettings:ColorsByShapeType:0=(SimpleTypeColor=(B=115,G=158,R=0,A=255),ConvexColor=(B=66,G=228,R=240,A=255),HeightFieldColor=(B=233,G=180,R=86,A=255),TriangleMeshColor=(B=0,G=94,R=213,A=255),LevelSetColor=(B=167,G=121,R=204,A=255))
@@ -1499,6 +1493,7 @@ ConfigSystem.<Editor>.Engine:/Script/TcpMessaging.TcpMessagingSettings:Connectio
 ConfigSystem.<Editor>.Engine:/Script/TcpMessaging.TcpMessagingSettings:EnableTransport:0=True
 ConfigSystem.<Editor>.Engine:/Script/TcpMessaging.TcpMessagingSettings:ListenEndpoint:0=
 ConfigSystem.<Editor>.Engine:/Script/TemplateSequence.TemplateSequence:DefaultCompletionMode:0=RestoreState
+ConfigSystem.<Editor>.Engine:/Script/UnrealEd.CookerSettings:bCookOnTheFlyForLaunchOn:0=False
 ConfigSystem.<Editor>.Engine:/Script/UnrealEd.CookerSettings:ClassesExcludedOnDedicatedClient:0=WidgetBlueprint
 ConfigSystem.<Editor>.Engine:/Script/UnrealEd.CookerSettings:ClassesExcludedOnDedicatedClient:1=GroupActor
 ConfigSystem.<Editor>.Engine:/Script/UnrealEd.CookerSettings:ClassesExcludedOnDedicatedClient:2=MetaData
@@ -1861,10 +1856,11 @@ ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:MaxAllowedTestingTim
 ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningInterval:0=30.0
 ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningThreshold:0=0
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
+ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformArchitecture:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildTarget:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
-ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="")
+ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/calli/OneDrive/Desktop/Game Dev Stuff/HorrorPuzzle/HorrorPuzzleGame/Build/Build1")
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.DebugCameraController:bShowSelectedInfo:0=true
@@ -1920,18 +1916,20 @@ ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:Homepag
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:LicensingTerms:0=
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:PrivacyPolicy:0=
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=2CCD0D6E4C0725AE329477920B32A4BC
-ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=First Person BP Game Template
+ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=Haunted
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.0.0
 ConfigSystem.<Editor>.Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bForceUseProjectCompressionFormatIgnoreHardwareOverride:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bGenerateChunks:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=True
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=True
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipEditorContent:0=false
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipMovies:0=False
-ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bTreatWarningsAsErrorsOnCook:0=True
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bUseIoStore:0=True
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bUseZenStore:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:CulturesToStage:0=en
